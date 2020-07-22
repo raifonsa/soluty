@@ -1,2 +1,2 @@
 # soluty
-site aplication for Soluty TI in node.js
+site aplication for Soluty Serviços
